@@ -7,9 +7,9 @@ from utils.pre_process import pre_processing
 PATH = "images"
 face_detector = cv2.CascadeClassifier("data/haarcascade_frontalface_default.xml")
 
-name = input("\n\nInput your name:")
+StudentID = input("\n\nInput your StudentID:")
 
-target_path = os.path.join(PATH, name)
+target_path = os.path.join(PATH, StudentID)
 if not os.path.isdir(target_path):
     os.mkdir(target_path)
 

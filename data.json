@@ -1,0 +1,17 @@
+[
+  {
+    "StudentID": "HE190065",
+    "Name": "Pham Minh Khoi",
+    "Class" : "AI19008"
+  },
+  {
+    "StudentID": "HE194102",
+    "Name": "Hoang Duy Quang",
+    "Class" : "AI19008"
+  },
+  {
+    "StudentID": "HE190791",
+    "Name": "Tran Anh Van",
+    "Class" : "AI19008"
+  }
+]
